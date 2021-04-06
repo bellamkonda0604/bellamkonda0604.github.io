@@ -1,0 +1,36 @@
+body {
+    border-style: solid;
+    background-color: rgb(221, 204, 196);
+    /* background-color: linear-gradient(120deg, rgb(221, 221, 97) 20%, rgb(230, 134, 134) 80% ); */
+    padding: 7px;
+}
+/* div{
+    margin: 10px;
+    position: fixed 10px 20px 0 0;
+    align-content: flex-end;
+    border: 3px solid #73AD21;
+}       */
+#name {
+    text-align: right;
+    /* padding: 5px; */
+}
+/* .heading {
+    background-color: rgb(119, 119, 34);
+    */
+/* } */
+/* #project {
+    background-color: rgb(250, 220, 196);
+    padding: 5px;
+} */
+img {
+    position: relative;
+    align-self: flex-end;
+    float: right;
+}
+/* .skills {
+    background-color: rgb(250, 220, 196);
+} */
+
+h2 { 
+    padding: 15px;
+}
